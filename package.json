@@ -1,0 +1,19 @@
+{
+  "name": "three-train",
+  "version": "1.0.0",
+  "main": "three.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite dev --host",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "three": "^0.184.0",
+    "tweakpane": "^4.0.5",
+    "vite": "^8.0.8"
+  }
+}
