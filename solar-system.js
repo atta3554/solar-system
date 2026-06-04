@@ -1,5 +1,7 @@
-import App from "./src/App"
+import App from "./src/App";
 
+const app = new App("#three");
 
-const app = new App('#three');
+await app.config();
+
 app.run();
